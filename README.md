@@ -1,5 +1,6 @@
 ## Challenge link
 Python solutions to the challenges of [https://cryptopals.com/](https://cryptopals.com/).
+![[tom.png]]
 ## What are these challenges?
 ---
 Cryptopals is a collection of exercises that demonstrate attacks on real world ciphers and protocols. Exercises exploit both badly designed systems and subtle implementation bugs in theoretically rock solid crypto.
